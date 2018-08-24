@@ -1,4 +1,4 @@
 # Greedy Gravity optimizer
 
 Objective Function:
-![Screenshot](Eqn.png)
+![Screenshot](https://github.com/sabrish89/Greedy-Gravity-optimizer/blob/master/Eqn.PNG)
