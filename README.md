@@ -5,4 +5,4 @@
 <br/>
 ![Image](https://github.com/sabrish89/Greedy-Gravity-optimizer/blob/master/Par.PNG)
 
-<b>All measures of attractiveness are taken to be unity, equal for all stores</b>
+<b>All measures of attractiveness are taken to be unity, equal for all facilities</b>
